@@ -1,0 +1,24 @@
+Users
+
+Superuser:
+    username : user
+    password : lemon123!
+    token : ef1559311db1a3c697a18604a279ceb508b50e10
+
+Other Users:
+    
+    Manager
+    username : Jane
+    password : lemon.user1
+    token : c0c25515e7ed54e11ad09b6944470f100098dbdb
+    
+    Delivery Crew
+    username : John
+    password : lemon.user2
+    token : 763a8292b9e2c1c1f5b39ed8447080dd198c3f87
+
+    Customer
+    username : Jimmy
+    password : lemon.user3
+    token : aa117322a40bd04ed409c1045b839b25ffc3f9d2
+
